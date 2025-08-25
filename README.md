@@ -1,6 +1,6 @@
-## Hello World! / Hallo Welt! 👋
+## Hello World! • Hallo Welt! • Merhaba Dünya!  👋
 
-### Here is somethings about me 
+### Here is some information about me :
 
 - 🔭 I’m currently working mostly on my Master Thesis
 - 🌱 I’m currently learning Python, R, SQL and Git.
