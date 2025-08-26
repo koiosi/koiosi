@@ -2,7 +2,7 @@
 
 ### Here is some information about me :
 
-- 🔭 I’m currently working mostly on my Master Thesis
+- 🔭 I’m currently working on my Master Thesis
 - 🌱 I’m currently learning Python, R, SQL and Git.
 
 <!--
