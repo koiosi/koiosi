@@ -3,7 +3,7 @@
 ### Here is some information about me :
 
 - 🔭 I’m currently working on my Master Thesis
-- 🌱 I’m currently learning Python, R, SQL and Git.
+- 🌱 I’m actively learning Python, R, SQL and Git.
 
 <!--
 **koiosi/koiosi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
