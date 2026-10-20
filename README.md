@@ -1,21 +1,13 @@
-## Hello World! • Hallo Welt! • Merhaba Dünya!  👋
+# Hi, I'm Canberk
 
-### Here is some information about me :
+Data scientist with a Master's in Applied Economics & Data Science (University of Oldenburg), based in Wuppertal, Germany. I turn official statistics and messy data into reproducible analyses and clear decisions.
 
-- 🔭 I’m currently working on my Master Thesis
-- 🌱 I’m actively learning Python, R, SQL and Git.
+## Selected projects
+- **[organic-farming-dashboard](https://github.com/koiosi/organic-farming-dashboard)** – R → CSV → Power BI: is Germany on track for 30 % organic farmland by 2030? Data model, DAX measures and a three-page data story (bilingual DE/EN).
+- **[organic-farming-sql](https://github.com/koiosi/organic-farming-sql)** – the same analysis rebuilt in PostgreSQL (staging → views, window functions, regression aggregates) and reconciled against the R results.
 
-<!--
-**koiosi/koiosi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech
+Python (pandas, scikit-learn, Keras/TensorFlow) · R (tidyverse, fixest) · SQL/PostgreSQL · Power BI/DAX · Git (GitHub, GitLab)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working mostly on my Master Thesis
-- 🌱 I’m currently learning Python, R, SQL and Git.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+[LinkedIn](https://linkedin.com/in/canberk-atak)
